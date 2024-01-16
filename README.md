@@ -1,8 +1,8 @@
-# WELCOME to Maria Lee's profile!
+# Welcom to Maria Lee's profile 👩🏻‍💻!
 
 ## 🛠️ What is in my toolbox?
 
-### 👨‍💻 Programming languages
+### 🗺 Programming languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
