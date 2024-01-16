@@ -5,11 +5,6 @@
 
 # Welcome to [Maria Lee's] profile!
 
-<a href="https://www.linkedin.com/in/tomarialee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/marialee222/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-lee" height="30" width="40" /></a>
-&nbsp;
-
-
-
 ## Welcome! &nbsp;
 
 
