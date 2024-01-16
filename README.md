@@ -1,19 +1,8 @@
 ### Hi there 👋
 
-<!--
-**marialee222/marialee222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome to [Maria Lee's] profile!
 
 ## Welcome! &nbsp;
-
-
-
-<img align="right" alt="GIF" src="https://github.com/marialee222/marialee222/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
-
-
 
 ## 🛠️ What is in my toolbox?
 
