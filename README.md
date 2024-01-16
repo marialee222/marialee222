@@ -1,7 +1,5 @@
 # Welcome to Maria Lee's profile!
 
-## Welcome! &nbsp;
-
 ## 🛠️ What is in my toolbox?
 
 ### 👨‍💻 Programming languages
