@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Welcome to [Maria Lee's] profile!
+# Welcome to Maria Lee's profile!
 
 ## Welcome! &nbsp;
 
