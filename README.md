@@ -1,5 +1,4 @@
-# Maria Lee's Profile
-# WELCOME!
+# WELCOME to Maria Lee's profile!
 
 ## 🛠️ What is in my toolbox?
 
