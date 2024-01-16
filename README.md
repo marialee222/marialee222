@@ -1,4 +1,5 @@
-# Welcome to Maria Lee's profile!👩🏻‍💻
+# Welcome to Maria Lee's profile!👩🏻‍💻![image](https://github.com/marialee222/marialee222/assets/150623001/838eaa1b-4e75-4784-ad9e-99687a1c5a50)
+
 
 ## 🧰 What's in My Toolbox?
 
