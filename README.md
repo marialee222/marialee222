@@ -44,19 +44,3 @@ A little bit about me:  With a background as a Special Investigator holding top-
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<!--END_SECTION:waka-->
-
-Have freelance work that could use my expertise? Happy to help. 
-📩 Contact me, [email](mailto:marialee0222@gmail.com)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-HTML         2 hrs 1 min     ███████████████████████▒░   93.09 %
-TypeScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
-<!--END_SECTION:waka-->
