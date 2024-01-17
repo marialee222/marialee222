@@ -18,14 +18,11 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 </details>
 
 <details>
-  <summary><strong>🎥 Watch My Introduction Video</strong></summary>
+  <summary><strong>🎥 Watch My Video Intro</strong></summary>
 
   [![Introduction Video](thumbnail_url_here)](youtube_video_url_here)
 
-  Welcome to my GitHub profile! In this video, I introduce myself and share insights into my projects and interests. 🚀 Watch the video to get to know me better!
-
-  <!-- Add any additional information or links here -->
-
+  In this video, I introduce myself and share insights into my projects and interests.  Watch the video to get to know me better!
 </details>
 
 ---
