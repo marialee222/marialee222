@@ -4,15 +4,13 @@ Hello, world! 👋
 My name is Maria Lee, and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences. ⛏🧱<br>
 With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻<br>
 My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
-My repositories showcase a diverse range of projects, from full-stack web applications 🕸️ to algorithmic wonders. 🎩🐇<br>
-Let's code the web forward! 🌐
 
-<i>A little bit about me:  With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.</i>
+<details>  
+<summary>A little bit about me...</summary>
+<With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.
 
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.
 
-<details>
-  <summary>More...</summary>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default" />
   <br />
@@ -58,12 +56,12 @@ Let's code the web forward! 🌐
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"></a>
 </p>
 <hr>
-Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.<br>
 <h2  align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/marialee222" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.</p>
 <hr>
 <h2  align="center">🚀 Explore my latest projects below and feel free to provide feedback or suggestions. ⬇️ </h2>
