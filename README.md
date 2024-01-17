@@ -7,14 +7,10 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 
 <details>  
 <summary>A little bit about me...</summary>
-<i>With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.</i>i
-
-🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.
-
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default" />
-  <br />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=marialee222" />
+<i>With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.  🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.</i>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default"/>
 </details>
 
 <hr>
