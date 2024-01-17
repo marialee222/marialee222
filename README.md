@@ -1,3 +1,4 @@
+![Header](./header.png)
 # Welcome to Maria Lee's profile!👩🏻‍💻
 
 Hello, world! 👋
