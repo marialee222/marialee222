@@ -1,4 +1,4 @@
-<p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="header.png"></p>
+<p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="header1.png"></p>
 
 
 # Welcome to Maria Lee's profile!👩🏻‍💻
