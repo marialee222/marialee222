@@ -1,4 +1,5 @@
-![Header](./header.png)
+<p align="center"><img alt="I am Maria Lee" src="https://user-images.githubusercontent.com/header1.png"></p>
+
 # Welcome to Maria Lee's profile!👩🏻‍💻
 
 Hello, world! 👋
