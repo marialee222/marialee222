@@ -16,10 +16,16 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 <br/>
 <br/>
 
-## Introduction Video
-[![Introduction Video](thumbnail_url_here)](youtube_video_url_here)
-In this video, I introduce myself and share insights into my projects and interests. Watch the video to get to know me better!
+<details>
+  <summary><strong>🎥 Watch My Introduction Video</strong></summary>
 
+  [![Introduction Video](thumbnail_url_here)](youtube_video_url_here)
+
+  Welcome to my GitHub profile! In this video, I introduce myself and share insights into my projects and interests. 🚀 Watch the video to get to know me better!
+
+  <!-- Add any additional information or links here -->
+
+</details>
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default"/>
