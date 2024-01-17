@@ -1,4 +1,4 @@
-<p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="https://user-images.githubusercontent.com/51878265/227764366-ff0cd90f-8e5d-45c7-b1f9-f95105ba5d66.png"></p>
+<p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="header.png"></p>
 
 
 # Welcome to Maria Lee's profile!👩🏻‍💻
