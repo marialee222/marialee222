@@ -9,7 +9,16 @@ Let's code the web forward! 🌐
 
 A little bit about me:  With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.
 
-🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.  
+🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.
+
+<details>
+  <summary>More...</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default" />
+  <br />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=marialee222" />
+</details>
+
 <hr>
 
 ## 👷🏻‍♀️ What's in My Toolbox? 🧰🔧
@@ -45,11 +54,14 @@ A little bit about me:  With a background as a Special Investigator holding top-
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"></a>
 </p>
 <hr>
 Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.<br>
 <h2  align="center">📫 Contact Me</h2>
 <p align="center">
+  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -57,3 +69,7 @@ Have freelance work that could use my expertise?  Happy to help.  Reach out for 
 <hr>
 
 <h2  align="center">🚀 Explore my latest projects below and feel free to provide feedback or suggestions. ⬇️ </h2>
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![marialee222's github stats](https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&theme=dracula)
