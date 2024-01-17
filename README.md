@@ -15,6 +15,13 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.</i>
 <br/>
 <br/>
+
+## Introduction Video
+[![Introduction Video](thumbnail_url_here)](youtube_video_url_here)
+In this video, I introduce myself and share insights into my projects and interests. Watch the video to get to know me better!
+
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default"/>
 </details>
 
