@@ -1,13 +1,13 @@
 # Welcome to Maria Lee's profile!👩🏻‍💻
 
 Hello, world! 👋
-My name is Maria Lee, and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences. ⛏🧱
-With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻
-My GitHub is a playground 🛝 of creative solutions and clean code. 🫧
-My repositories showcase a diverse range of projects, from full-stack web applications 🕸️ to algorithmic wonders. 🎩🐇
+My name is Maria Lee, and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences. ⛏🧱<br>
+With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻<br>
+My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
+My repositories showcase a diverse range of projects, from full-stack web applications 🕸️ to algorithmic wonders. 🎩🐇<br>
 Let's code the web forward! 🌐
 
-A little bit about me:  With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.
+<i>A little bit about me:  With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.</i>
 
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.
 
