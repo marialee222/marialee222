@@ -56,4 +56,4 @@ Have freelance work that could use my expertise?  Happy to help.  Reach out for 
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">🚀 Check out my latest projects below! ⬇️ </h2>
