@@ -1,14 +1,14 @@
 <p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="header1.png"></p>
 
 
-# Welcome!👩🏻‍💻
+# Welcome!
 
 My name is Maria, and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences.⛏🧱<br>
 With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻<br>
 My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 
 <details>  
-<summary>A little bit about me...</summary><br>
+  <summary><strong>👩🏻‍💻 About Me</strong>strong</summary><br>
 <i>With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.
 <br/>
 <br/>  
