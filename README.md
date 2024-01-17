@@ -15,6 +15,7 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.</i>
 <br/>
 <br/>
+</details>
 
 <details>
   <summary><strong>🎥 Watch My Introduction Video</strong></summary>
@@ -25,10 +26,6 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 
   <!-- Add any additional information or links here -->
 
-</details>
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default"/>
 </details>
 
 ---
