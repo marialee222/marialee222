@@ -15,7 +15,8 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=marialee222&show_icons=true&count_private=true&theme=default"/>
 </details>
-<hr>
+
+---
 
 # 👷🏻‍♀️ What's in My Toolbox? 🧰🔧
 
@@ -49,7 +50,9 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"></a>
 </p>
-<hr>
+
+---
+
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
   <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,5 +60,7 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
   <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.</p>
-<hr>
-<h2  align="center">🚀 Explore my latest projects below and feel free to provide feedback or suggestions. ⬇️ </h2>
+
+---
+
+<h3 align="center">🚀 Explore my latest projects below and feel free to provide feedback or suggestions. ⬇️</h3>
