@@ -45,5 +45,5 @@ A little bit about me:  With a background as a Special Investigator holding top-
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<p>Have freelance work that could use my expertise? Happy to help.</p>
-<p>📩 Contact me, [email](mailto:marialee0222@gmail.com)</p>
+Have freelance work that could use my expertise? Happy to help.<br>
+📩 Contact me, [email](mailto:marialee0222@gmail.com)
