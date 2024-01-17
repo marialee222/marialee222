@@ -11,9 +11,10 @@ A little bit about me:  With a background as a Special Investigator holding top-
 
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.  
 <hr>
+
 ## 👷🏻‍♀️ What's in My Toolbox? 🧰🔧
 
-### 🗺 Programming Languages🕴
+### 🗺 Programming Languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -46,11 +47,8 @@ A little bit about me:  With a background as a Special Investigator holding top-
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 <hr>
-Have freelance work that could use my expertise? Happy to help.<br>
-📩 Contact me, [email](mailto:marialee0222@gmail.com)
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
+Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.<br>
+<h2  align="center">📫 Contact Me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
