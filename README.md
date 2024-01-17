@@ -10,7 +10,7 @@ Let's code the web forward! 🌐
 A little bit about me:  With a background as a Special Investigator holding top-secret clearance, I bring a disciplined and security-focused approach to web development.  As I transition into the dynamic world of web development, I get to merge my analytical prowess with a passion for coding.  I leverage my investigative skills to build robust and secure web applications, ensuring a seamless user experience while maintaining the highest standards of data protection.  My investigative background instills in me a meticulous attention to detail and a commitment to solving complex challenges.  My journey from investigations to web development reflects a seamless blend of precision, adaptability, and a relentless pursuit of excellence.
 
 🎯 My goal is to now apply these skills to create innovative and secure web solutions, aiming to enhance user experiences and contribute to the ever-evolving digital landscape.  
-
+<hr>
 ## 👷🏻‍♀️ What's in My Toolbox? 🧰🔧
 
 ### 🗺 Programming Languages🕴
@@ -45,6 +45,17 @@ A little bit about me:  With a background as a Special Investigator holding top-
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
+<hr>
 Have freelance work that could use my expertise? Happy to help.<br>
 📩 Contact me, [email](mailto:marialee0222@gmail.com)
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
