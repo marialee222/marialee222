@@ -46,3 +46,17 @@ A little bit about me:  With a background as a Special Investigator holding top-
 </p>
 
 <!--END_SECTION:waka-->
+
+Have freelance work that could use my expertise? Happy to help. 
+📩 Contact me, [email](mailto:marialee0222@gmail.com)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+HTML         2 hrs 1 min     ███████████████████████▒░   93.09 %
+TypeScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
+<!--END_SECTION:waka-->
