@@ -1,9 +1,8 @@
 <p align="center"><img alt="a black background with white text Hello, I am Maria Lee" src="header1.png"></p>
 
 
-# Welcome to Maria Lee's profile!👩🏻‍💻
+# Welcome!👩🏻‍💻
 
-Hello, world! 👋
 My name is Maria, and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences.⛏🧱<br>
 With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻<br>
 My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
