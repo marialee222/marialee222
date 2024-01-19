@@ -69,7 +69,7 @@ My GitHub is a playground 🛝 of creative solutions and clean code. 🫧<br>
 <p align="center">
   <a href="mailto:marialee0222@gmail.com?subject=Hello%20Maria,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/marialee222" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tomarialee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">Have freelance work that could use my expertise?  Happy to help.  Reach out for collaboration, feedback, or inquiries.</p>
 
