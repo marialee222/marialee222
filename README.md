@@ -3,7 +3,7 @@
 
 # Welcome!
 
-My name is [Maria Lee](https://github.com/marialee222/) and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences.⛏🧱<br>
+My name is [Maria Lee](https://marialee222.github.io/) and I'm a dedicated tech enthusiast on a mission to craft exceptional digital experiences.⛏🧱<br>
 With a keen eye 👁️ for design and a knack for coding, I bring ideas to life 🌱 through responsive and user-centric websites. 💻<br>
 My GitHub is a playground 🥎 of creative solutions 🛝 and clean code. 🫧<br>
 
