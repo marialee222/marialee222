@@ -20,7 +20,7 @@ My GitHub is a playground 🥎 of creative solutions 🛝 and clean code. 🫧<b
 <details>
   <summary><strong>🎥 Watch My Video Intro</strong></summary>
 
-  [![Introduction Video](thumbnail_url_here)](youtube_video_url_here)
+  [![Video Intro](thumbnail_url_here)](youtube_video_url_here)
 
   In this video, I introduce myself and share insights into my projects and interests.  Watch the video to get to know me better!
 </details>
