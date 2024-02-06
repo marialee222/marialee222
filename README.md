@@ -18,12 +18,9 @@ My GitHub is a playground 🥎 of creative solutions 🛝 and clean code. 🫧<b
 </details>
 
 <details>
-  <summary><strong>🎥 Watch My Video Intro</strong></summary>
-
-  [![Video Intro](thumbnail_url_here)]([youtube_video_url_here](https://www.youtube.com/embed/Tu-zkidQ35Y?si=Co3b3KNUtyYvDvVn"))
-
+  <summary><strong>🎥  [Watch my video intro]</strong></summary>([https://www.youtube.com/your-video-link](https://www.youtube.com/embed/Tu-zkidQ35Y?si=Co3b3KNUtyYvDvVn))
   In this video, I introduce myself and share insights into my projects and interests.  Watch the video to get to know me better!
-  <iframe width="873" height="495" src="https://www.youtube.com/embed/Tu-zkidQ35Y?si=Co3b3KNUtyYvDvVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </details>
 
 ---
